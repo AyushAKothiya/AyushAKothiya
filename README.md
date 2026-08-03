@@ -1,4 +1,4 @@
-# Hi, I'm Ayush Kothiya 👋
+# Hi, I'm Ayush Kothiya 
 
 Welcome to my GitHub!
 
