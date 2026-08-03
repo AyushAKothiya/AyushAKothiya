@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Ayush Kothiya 👋
 
-<!--
-**AyushAKothiya/AyushAKothiya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub!
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm passionate about technology and enjoy learning new skills through practical projects.
+
+Currently, I'm exploring:
+- Python
+- Artificial Intelligence
+- Data Science
+- Cybersecurity
+
+## Current Goal
+
+Build real-world projects, improve problem-solving skills, and grow as a software professional.
+
+---
+
+Thanks for visiting my profile!
